@@ -1,0 +1,19 @@
+.btn-projet:hover{
+    color: #ffffff !important;
+}
+.form-floating{
+    border-bottom: 0px !important;
+}
+.btn-submit{
+    background: #ffffff;
+    color: #868e96;
+}
+
+.btn-submit:hover{
+    background: #2c3e50;
+    color: #ffffff;
+}
+
+.beta{
+    color:#dc3545;
+}
